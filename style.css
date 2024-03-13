@@ -1,0 +1,23 @@
+img{
+  width: 200px;
+  height: 150px;
+} /* Changed the size of the images */
+
+/*Assigned miscellanious colors can style to every tag used.*/
+body{
+  background-color: cornsilk;
+  font-family: cursive;
+}
+h1{
+  font-size: 3em;
+  font-family: Lucida Handwriting, cursive;
+  color: lightcoral;
+}
+h2, h3{
+  color:skyblue;
+  font-family: Lucida Handwriting, cursive;
+}
+p, h5{
+  color: sandybrown;
+}
+
